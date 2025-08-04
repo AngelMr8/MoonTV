@@ -85,6 +85,10 @@
       "api": "http://zy.xmm.hk/api.php/provide/vod/from/qq/?ac=list",
       "name": "腾讯视频"
     },
+    "youku": {
+      "api": "http://zy.xmm.hk/api.php/provide/vod/from/youku/?ac=list",
+      "name": "优酷视频"
+    },
     "xiaomaomi": {
       "api": "https://zy.xmm.hk/api.php/provide/vod",
       "name": "小猫咪资源"
